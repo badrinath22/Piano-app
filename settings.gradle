@@ -1,0 +1,2 @@
+rootProject.name = "Android App Development August Minor Project"
+include ':app'

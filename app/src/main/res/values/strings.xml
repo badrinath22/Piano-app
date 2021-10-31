@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My piano</string>
+    <string name="about_button">ABOUT</string>
+    <string name="tone_1">Tone 1</string>
+    <string name="tone_2">Tone 2</string>
+    <string name="tone_3">Tone 3</string>
+    <string name="tone_4">Tone 4</string>
+    <string name="tone_5">Tone 5</string>
+    <string name="tone_6">Tone 6</string>
+    <string name="tone_7">Tone 7</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="varun_name">
+        Name : MUTHINENI VARUN
+    </string>
+
+    <string name="varun_mail">
+    Mail: varun.muthineni@gmail.com
+    </string>
+
+    <string name="project_name">
+    Smartknower Mini project
+    </string>
+
+    <string name="appName">
+    App Name: My piano
+    </string>
+
+
+</resources>
